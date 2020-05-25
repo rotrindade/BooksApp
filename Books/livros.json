@@ -1,0 +1,66 @@
+[
+    {
+        "titulo": "Steve Jobs",
+        "autor": "Walter Isaacson",
+        "editora": "Companhia das Letras",
+        "categorias": "Biografia",
+        "classificacao": 5.0,
+        "resumo": "O livro, baseado em mais de quarenta entrevistas com Jobs ao longo de dois anos - e entrevistas com mais de cem familiares, amigos, colegas, adversários e concorrentes -, narra a vida atribulada do empresário extremamente inventivo e de personalidade forte e polêmica, cuja paixão pela perfeição e cuja energia indomável revolucionaram seis grandes indústrias: a computação pessoal, o cinema de animação, a música, a telefonia...",
+        "imagem": "stevejobs"
+    },
+    {
+        "titulo": "Clean Code",
+        "autor": "Robert C. Martin",
+        "editora": "Prentice Hall",
+        "categorias": "Educação",
+        "classificacao": 4.9,
+        "resumo": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.",
+        "imagem": "cleancode"
+    },
+    {
+        "titulo": "Clean Architecture",
+        "autor": "Robert C. Martin",
+        "editora": "Prentice Hall",
+        "categorias": "Educação",
+        "classificacao": 4.8,
+        "resumo": "By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary software craftsman Robert C. Martin (“Uncle Bob”) reveals those rules and helps you apply them.",
+        "imagem": "cleanarchitecture"
+    },
+    {
+        "titulo": "Eterna Vigilância",
+        "autor": "Edward Snowden",
+        "editora": "Planeta",
+        "categorias": "Biografia",
+        "classificacao": 4.9,
+        "resumo": "Em 2013, Edward Snowden, ex-analista da CIA (Agência Central de Inteligência) que também trabalhou como agente da NSA (Agência Nacional de Segurança), chocou o mundo ao desmascarar detalhes dos serviços secretos americanos. Snowden revelou que o governo dos Estados Unidos estava sigilosamente desenvolvendo meios para coletar todos os telefonemas, mensagens de texto e e-mails enviados em qualquer país do mundo.",
+        "imagem": "snowden"
+    },
+    {
+        "titulo": "Jony Ive",
+        "autor": "Leander Kahney",
+        "editora": "Portfolio",
+        "categorias": "Biografia",
+        "classificacao": 5.0,
+        "resumo": "Em 1997, Steve Jobs voltou à Apple com a missão nada invejável de virar pelo avesso a empresa que havia fundado em 1976. Certa noite, Jobs descobriu na sede da Apple um designer britânico de apenas trinta anos se matando de trabalhar, cercado por centenas de projetos, esboços e protótipos. Foi quando se deu conta de que havia encontrado um talento que poderia reverter o longo declínio da empresa. ",
+        "imagem": "jonyive"
+    },
+    {
+        "titulo": "Tim Cook",
+        "autor": "Leander Kahney",
+        "editora": "Intrínseca",
+        "categorias": "Biografia",
+        "classificacao": 4.9,
+        "resumo": "Quando Steve Jobs morreu, muita gente se perguntou qual seria o destino da Apple. Afinal, Jobs não era apenas seu fundador, mas também o rosto de uma das maiores marcas do planeta. Sua morte deixou um grande vazio, e na época era difícil imaginar alguém que um dia pudesse substituí-lo à altura. Quando as especulações começaram, especialistas e público estavam prontos para fazer suas apostas sobre o novo grande líder do ramo. Nem todos chegaram a pensar, é claro, em um cara discreto do setor operacional. Um cara como Tim Cook.",
+        "imagem": "timcook"
+    },
+    {
+        "titulo": "Elon Musk",
+        "autor": "Ashlee Vance",
+        "editora": "Intrínseca",
+        "categorias": "Biografia",
+        "classificacao": 4.8,
+        "resumo": "Elon Musk é o empreendedor mais ousado de nosso tempo. Uma mistura de Thomas Edison, Henry Ford, Howard Hughes e Steve Jobs, ele é o homem por trás dos cobiçados esportivos elétricos da Tesla Motors, dos painéis e baterias de energia solar popularizados pela SolarCity e dos foguetes espaciais da SpaceX, construídos do zero com recursos privados e muito mais baratos que qualquer versão já lançada pelas agências governamentais.",
+        "imagem": "elonmusk"
+    }
+]
+
